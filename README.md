@@ -7,13 +7,13 @@ Bu proje, Laravel kullanarak oluşturulmuş basit bir API başlangıç paketidir
 1. Repoyu klonlayın:
 
     ```bash
-    git clone https://github.com/kullanici/adiniz/Laravel-Api-Starter-Pack.git
+    git clone https://github.com/StoneyEnes/Laravel-Starter-Api-Pack.git
     ```
 
 2. Proje dizinine gidin:
 
     ```bash
-    cd Laravel-Api-Starter-Pack
+    cd Laravel-Starter-Api-Pack
     ```
 
 3. Composer bağımlılıklarını yükleyin:
@@ -40,13 +40,7 @@ Bu proje, Laravel kullanarak oluşturulmuş basit bir API başlangıç paketidir
     php artisan migrate
     ```
 
-7. Passport istemcisi oluşturun:
-
-    ```bash
-    php artisan passport:install
-    ```
-
-8. Uygulamayı başlatın:
+7. Uygulamayı başlatın:
 
     ```bash
     php artisan serve
